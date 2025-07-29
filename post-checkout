@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
+touch /tmp/rhynorater
 curl https://d24i1lipa9n516g7jr206gtex4y4zh9q9.i.aj.ax
 
